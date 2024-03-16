@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Destroy
+  - Enemy
+  - Target
+  - Wall
+  - Slider
+  - projectile
+  - army
+  - Camp
+  - Bullet
+  - Bulletnew
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Bullet
+  - Agent
+  - Hittable
+  - motarbullet
+  - 'Obstecleas Movement '
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: basecolour
+    uniqueID: 2012240135
+    locked: 0
+  - name: ground
+    uniqueID: 1609552811
+    locked: 0
+  - name: road
+    uniqueID: 265369037
+    locked: 0
+  - name: water
+    uniqueID: 1243997271
+    locked: 0
+  - name: crack
+    uniqueID: 1555931913
+    locked: 0
+  - name: object
+    uniqueID: 963531495
+    locked: 0
+  - name: object2
+    uniqueID: 3531655109
+    locked: 0
+  - name: collider ground
+    uniqueID: 3471486815
+    locked: 0
+  - name: 'tank '
+    uniqueID: 3781361031
+    locked: 0
+  - name: turret
+    uniqueID: 138453189
+    locked: 0
+  - name: projectile & motar
+    uniqueID: 3991619835
+    locked: 0
+  - name: destroyedcamp
+    uniqueID: 923097383
+    locked: 0
+  - name: ArmyCAmp
+    uniqueID: 1650052937
+    locked: 0
+  - name: hittable
+    uniqueID: 1071246237
+    locked: 0
+  - name: tree
+    uniqueID: 3948625969
+    locked: 0
+  - name: 'enemy tank '
+    uniqueID: 3969416211
+    locked: 0
+  - name: 'obstacles movement '
+    uniqueID: 844461611
+    locked: 0
+  - name: canvas
+    uniqueID: 3496574755
+    locked: 0
+  - name: 'specail effects '
+    uniqueID: 2648229903
+    locked: 0

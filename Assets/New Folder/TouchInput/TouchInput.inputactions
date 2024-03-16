@@ -1,0 +1,34 @@
+{
+    "name": "TouchInput",
+    "maps": [
+        {
+            "name": "Touch",
+            "id": "404e5905-83ba-4063-9b30-e2c64e65ac3b",
+            "actions": [
+                {
+                    "name": "TouchInput",
+                    "type": "PassThrough",
+                    "id": "b2fea0a9-af88-44c6-9f2c-6ab631adf1a0",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "3203be69-70e0-46ed-8e19-60460d6ca492",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "TouchInput",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

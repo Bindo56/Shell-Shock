@@ -1,0 +1,1336 @@
+fileFormatVersion: 2
+guid: 967028cecc66f004f9595ae6030ca15f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3870312781597476489
+    second: tilenew_0
+  - first:
+      213: -2417481349741740674
+    second: tilenew_1
+  - first:
+      213: 6499246470792378106
+    second: tilenew_2
+  - first:
+      213: 3613305334317154827
+    second: tilenew_3
+  - first:
+      213: -7845318324057186109
+    second: tilenew_4
+  - first:
+      213: -3060972581133023109
+    second: tilenew_5
+  - first:
+      213: -6868685768207996436
+    second: tilenew_6
+  - first:
+      213: 5411454139996982517
+    second: tilenew_7
+  - first:
+      213: -8903882145186201110
+    second: tilenew_8
+  - first:
+      213: 5341187640381966446
+    second: tilenew_9
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 44
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tilenew_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 264
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98685c418fc16b530800000000000000
+      internalID: 3870312781597476489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilenew_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 264
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7df2815581637ed0800000000000000
+      internalID: -2417481349741740674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilenew_2
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 264
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af67a4f0b36f13a50800000000000000
+      internalID: 6499246470792378106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilenew_3
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 264
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b028ff4be0a052230800000000000000
+      internalID: 3613305334317154827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilenew_4
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 264
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c065b0fc84df1390800000000000000
+      internalID: -7845318324057186109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilenew_6
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 264
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce96e288fa68da0a0800000000000000
+      internalID: -6868685768207996436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilenew_7
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 264
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc46d48ed8591b40800000000000000
+      internalID: 5411454139996982517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilenew_8
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 264
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae1cb3e1d5e0f6480800000000000000
+      internalID: -8903882145186201110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilenew_9
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 264
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e688caf2cd5bf1a40800000000000000
+      internalID: 5341187640381966446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilenew_10
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 264
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374eaf8d8615a1847ac794337a64816e
+      internalID: -1279489629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilenew_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 220
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6f8a8f261931547930b9618631da87
+      internalID: 1189985184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilenew_12
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 220
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caafd8bdc4504b4409d8fcfbfe7dd9cd
+      internalID: 1383492559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilenew_13
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 220
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af503373b88c6944a5eecb6b8ed090f
+      internalID: -1171406442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilenew_14
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 220
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43292a6133b2894a87f7b4fed88d54b
+      internalID: -955675244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilenew_15
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 220
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0248ff7e9ceef74da15b6b223c24faf
+      internalID: 1099272147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilenew_16
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 220
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46ad79a5f16de74eadf10e388ea00e6
+      internalID: -1228307977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilenew_17
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 220
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0374b5f34bcb83e43b108fd1a582cf58
+      internalID: -399034559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilenew_18
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 220
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04731992d094c584b8a2b3ecfe063269
+      internalID: -559188331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilenew_19
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 220
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551f1d21966007d4c8f49326db341020
+      internalID: 1389010809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilenew_20
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 220
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7c6277fe7f1b143846319266d4b9cc
+      internalID: -172892420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilenew_21
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 220
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e0c9d7c448ebd44b9e56b321a9d5e8
+      internalID: 1845304362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilenew_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 176
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e495d69aa92bd3040996298c99fe3812
+      internalID: 1240677221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilenew_23
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 176
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f618dca4f25e24c832b5994cc480a1
+      internalID: -1137642860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilenew_24
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 176
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d38e8a46a639f8428e6ab745a38b85f
+      internalID: -1939672285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilenew_26
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 176
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffc0ca1576ff0c4f8ca9776b03c6a5f
+      internalID: 434392715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilenew_27
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 176
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52672d646a026e9499fcc180e074337b
+      internalID: 1152160788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilenew_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 132
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff94624d65efec54783b418c488cc730
+      internalID: -581588950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilenew_29
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 88
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baaeb3669a363fd46b55e2a315a75986
+      internalID: -620212663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilenew_30
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 88
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8235da8b937103546929edd5e64aeda9
+      internalID: -2095172479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilenew_31
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 88
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542ac4e3df3a46244949a21d421d819d
+      internalID: 15341916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilenew_32
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 88
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4febd64c0c8c241b3fcd848178c59e
+      internalID: 1839452035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilenew_33
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 88
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2532227c91fbbe49a63138867aefb97
+      internalID: 498813955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilenew_36
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 88
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c886fd78f9c564cb508bc132c3cc93
+      internalID: 1304751019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilenew_37
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 88
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9be4929123ac44c97152c05d4ae85b
+      internalID: -1698150938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilenew_38
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 88
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3d309384bd97a49b2505ab928f426e
+      internalID: 1809737091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilenew_39
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 88
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a8cf6dfc530f442a01493e03d0e21e
+      internalID: -384296380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilenew_40
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 88
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2e58caa76c22f42a3cc87637fd5c6d
+      internalID: 847583491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilenew_41
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 44
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bedf97e2097b994497251cecf335cea
+      internalID: 98263502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilenew_42
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 44
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0ec6a01728c3848ba29d295e701982
+      internalID: 617842227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilenew_43
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 44
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7b238fffb8446418549e591c2f27c3
+      internalID: 1951089609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilenew_44
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 44
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73557b562d623aa47836a97eff6dbe31
+      internalID: 568374309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilenew_45
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 44
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40e53d504065a943a19c2ce5658aefd
+      internalID: 521764636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilenew_46
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 44
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c85d1c5e3fb0c441af3d496e723deb1
+      internalID: -1926997427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilenew_47
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 44
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d365e41c00988034d9351d6170195ab7
+      internalID: -1684920577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilenew_48
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 44
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5114ffc9fb6ff9c4dbd705a9b1faac82
+      internalID: -2031999884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilenew_49
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 44
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e36a89c413afb4094c36d5fe9e8e35
+      internalID: 1967695248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilenew_50
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 44
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1504c6ef21ddd47865e4632b77c97c
+      internalID: -453335849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilenew_51
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cfd2bc88891cc84a891d698aa60caf0
+      internalID: 41785994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilenew_52
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 0
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3bb3bda4078a141ba73a45f25dcb27
+      internalID: 253945637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilenew_53
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 0
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8979be3c0ae379c47b3077294c7c1e50
+      internalID: -1782975481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilenew_54
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 0
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2f6199e1843fb4ab7ecc561ceba949
+      internalID: -44556642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilenew_55
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 0
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c79c34b4267cc4e9f4827e960f115a
+      internalID: 326158513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilenew_56
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 0
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1102f90f47e79c45940e3fa16c3a84d
+      internalID: -1922522802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b122228a07ae3de4a84b221c5fcefa00
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      tilenew_0: 3870312781597476489
+      tilenew_1: -2417481349741740674
+      tilenew_10: -1279489629
+      tilenew_11: 1189985184
+      tilenew_12: 1383492559
+      tilenew_13: -1171406442
+      tilenew_14: -955675244
+      tilenew_15: 1099272147
+      tilenew_16: -1228307977
+      tilenew_17: -399034559
+      tilenew_18: -559188331
+      tilenew_19: 1389010809
+      tilenew_2: 6499246470792378106
+      tilenew_20: -172892420
+      tilenew_21: 1845304362
+      tilenew_22: 1240677221
+      tilenew_23: -1137642860
+      tilenew_24: -1939672285
+      tilenew_25: -1921503059
+      tilenew_26: 434392715
+      tilenew_27: 1152160788
+      tilenew_28: -581588950
+      tilenew_29: -620212663
+      tilenew_3: 3613305334317154827
+      tilenew_30: -2095172479
+      tilenew_31: 15341916
+      tilenew_32: 1839452035
+      tilenew_33: 498813955
+      tilenew_34: -1707062987
+      tilenew_35: 1057037601
+      tilenew_36: 1304751019
+      tilenew_37: -1698150938
+      tilenew_38: 1809737091
+      tilenew_39: -384296380
+      tilenew_4: -7845318324057186109
+      tilenew_40: 847583491
+      tilenew_41: 98263502
+      tilenew_42: 617842227
+      tilenew_43: 1951089609
+      tilenew_44: 568374309
+      tilenew_45: 521764636
+      tilenew_46: -1926997427
+      tilenew_47: -1684920577
+      tilenew_48: -2031999884
+      tilenew_49: 1967695248
+      tilenew_5: -3060972581133023109
+      tilenew_50: -453335849
+      tilenew_51: 41785994
+      tilenew_52: 253945637
+      tilenew_53: -1782975481
+      tilenew_54: -44556642
+      tilenew_55: 326158513
+      tilenew_56: -1922522802
+      tilenew_6: -6868685768207996436
+      tilenew_7: 5411454139996982517
+      tilenew_8: -8903882145186201110
+      tilenew_9: 5341187640381966446
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

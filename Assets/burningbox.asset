@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: burningbox
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: -742481610892195953, guid: c6b2779cc720c51429d32ad874dc4663, type: 3}
+  - {fileID: 7593970208139113091, guid: 2563b3890ef574b429988e6e9ad8892c, type: 3}
+  - {fileID: -2702628182432854197, guid: a27b0d697c279474eacee04399e249c6, type: 3}
+  - {fileID: 4895470635638069961, guid: d1be302fea0c65c428820dcc0504b4ee, type: 3}
+  - {fileID: 146682409554220783, guid: 71ce02e1b983ea34fa8420d43cedc89f, type: 3}
+  - {fileID: -7574022634929681613, guid: 95560047f92f7d4469a4ee9a8b37d96a, type: 3}
+  - {fileID: 7756556189863305433, guid: 2f222d8f6bcc4854eb33df4976a8eb5f, type: 3}
+  - {fileID: 7651676329942226375, guid: 263c3ed0d75d5e0468d2bbcab8a00359, type: 3}
+  - {fileID: 1901141995121124047, guid: 61bb92940c097494796026c57bffa657, type: 3}
+  - {fileID: -3085153219578776551, guid: d380df8694a6d014d9425a093d2a29aa, type: 3}
+  - {fileID: 4358273291143597983, guid: 6a44eae476e1cfa4b9ec5bd24aac3e91, type: 3}
+  - {fileID: 3222306128923353494, guid: c15b2ebe739dd7a4abba392c8af5a402, type: 3}
+  - {fileID: 181495397620159098, guid: 7768d3f890fff6e4dbf8f26665510a18, type: 3}
+  - {fileID: 5314933977109186535, guid: 15e9f8b5c8e604440a1481bf9e533423, type: 3}
+  - {fileID: -3174244439843378386, guid: 15c655b1aeb3f844bb338df9d74be11a, type: 3}
+  m_MinSpeed: 1
+  m_MaxSpeed: 1
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0
